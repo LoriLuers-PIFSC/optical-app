@@ -1,7 +1,7 @@
 # Optical Metadata Application
 
 ## Statement
-This application will standardize and streamline data entry and access to optical data. Specifically, to standardize Structure-from-Motion (SfM) imagery metadata entry and develop a foundation that is based in the database for optical imagery metadata and functions.
+This application will streamline data entry and access to optical metadata by standardizing data in the Oracle database. This meets the urgent need to streamline Structure-from-Motion (SfM) imagery metadata entry, and the future need as a foundation for other optical data entry, quality control, and access.
 
 ## Purpose
 <ul>
