@@ -1,4 +1,4 @@
-# Optical Application Project
+# Optical Metadata Application
 
 ## Statement
 This application will standardize and streamline data entry and access to optical data. Specifically, to standardize Structure-from-Motion (SfM) imagery metadata entry and develop a foundation that is based in the database for optical imagery metadata and functions.
