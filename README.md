@@ -6,10 +6,11 @@ This application will standardize and streamline data entry and access to optica
 ## Purpose
 <ul>
 <li></l>Currently SfM metadata is entered manually in a cross-institutional shared Google document https://docs.google.com/spreadsheets/d/1DiQCyb1syk6YZIPB6yuGge5_gzQXkXSE1J0IwDaegMU/ .</li>
-<li>Developing this app module will allow for validations of data, drop down for fields, and improve quality of data simultaneously with reducing time spent during data entry.</li>
-<li>SfM was previously a non-NCRMP datastream, now that is an established NCRMP datastream, integrating it in the Oracle database is essential for us to enhance its data integrity.</li>
-<li>This will also allow for integration with the SfM annotation app, and allow for quicker data entry, production, and accessing of SfM metadata.</li>
-<li>The foundation for this application would also include modules that involve starting the optical validation QC process for photoquads while on the cruise, reducing the amount of time spent in optical validation post-cruise.</li>
+<li> Integrating optical metadata into the database will allow to employ validations, database procedures </li>
+<li> Developing an application interface for data entry will reduce errors and time spent during manual data entry, as well as allow to summarize and present data in unique ways. </li>
+<li> SfM was previously a non-NCRMP datastream and now that is an established NCRMP datastream, integrating it in the Oracle database is essential for us to enhance its data integrity.</li>
+<li> This will also allow for integration with the SfM annotation app, and allow for quicker data entry, production, and accessing of SfM metadata.</li>
+<li> The foundation for this application could also include modules that involve starting the optical validation QC process for photoquads while on the cruise, reducing the amount of time spent in optical validation post-cruise.</li>
 </ul>
 
 ## Development Stages
