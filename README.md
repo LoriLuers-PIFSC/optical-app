@@ -5,7 +5,7 @@ This application will standardize and streamline data entry and access to optica
 
 ## Purpose
 <ul>
-<li></l>Currently SfM metadata is entered in a widely shared Google document https://docs.google.com/spreadsheets/d/1DiQCyb1syk6YZIPB6yuGge5_gzQXkXSE1J0IwDaegMU/ that involves manual entry.</li>
+<li></l>Currently SfM metadata is entered manually in a cross-institutional shared Google document https://docs.google.com/spreadsheets/d/1DiQCyb1syk6YZIPB6yuGge5_gzQXkXSE1J0IwDaegMU/ .</li>
 <li>Developing this app module will allow for validations of data, drop down for fields, and improve quality of data simultaneously with reducing time spent during data entry.</li>
 <li>SfM was previously a non-NCRMP datastream, now that is an established NCRMP datastream, integrating it in the Oracle database is essential for us to enhance its data integrity.</li>
 <li>This will also allow for integration with the SfM annotation app, and allow for quicker data entry, production, and accessing of SfM metadata.</li>
