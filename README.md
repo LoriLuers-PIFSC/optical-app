@@ -17,7 +17,7 @@ This application will streamline data entry and access to optical metadata by st
 1. Identify priority needs: SfM metadata entry to be standaradized and streamlined by becoming databased with an application interface
 2. Consult with SfM members on their needs in data entry
 3. Plan database design: what tables and structure will be needed to power application functions and improve data access
-4. Develop database design: create the structure for the table
+4. Develop database design: data tables and data structure
 5. Prepare and process data sample from SfM process tracking spreadsheet for ingestion
 6. Update database design if needed to allow for ingestion
 8. Ingest sample data
