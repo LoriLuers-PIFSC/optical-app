@@ -11,6 +11,7 @@ This application will standardize and streamline data entry and access to optica
 <li>This will also allow for integration with the SfM annotation app, and allow for quicker data entry, production, and accessing of SfM metadata.</li>
 <li>The foundation for this application would also include modules that involve starting the optical validation QC process for photoquads while on the cruise, reducing the amount of time spent in optical validation post-cruise.</li>
 </ul>
+
 ## Development Stages
 1. Identify priority needs: SfM metadata entry to be standaradized and streamlined by becoming databased with an application interface
 2. Consult with SfM members on their needs in data entry
