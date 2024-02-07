@@ -4,12 +4,13 @@
 This application will standardize and streamline data entry and access to optical data. Specifically, to standardize Structure-from-Motion (SfM) imagery metadata entry and develop a foundation that is based in the database for optical imagery metadata and functions.
 
 ## Purpose
-Currently SfM metadata is entered in a widely shared Google document https://docs.google.com/spreadsheets/d/1DiQCyb1syk6YZIPB6yuGge5_gzQXkXSE1J0IwDaegMU/ that involves manual entry.
-<br>Developing this app module will allow for validations of data, drop down for fields, and improve quality of data simultaneously with reducing time spent during data entry.
-<br>SfM was previously a non-NCRMP datastream, now that is an established NCRMP datastream, integrating it in the Oracle database is essential for us to enhance its data integrity.
-<br>This will also allow for integration with the SfM annotation app, and allow for quicker data entry, production, and accessing of SfM metadata.
-<br>The foundation for this application would also include modules that involve starting the optical validation QC process for photoquads while on the cruise, reducing the amount of time spent in optical validation post-cruise.
-
+<ul>
+<li></l>Currently SfM metadata is entered in a widely shared Google document https://docs.google.com/spreadsheets/d/1DiQCyb1syk6YZIPB6yuGge5_gzQXkXSE1J0IwDaegMU/ that involves manual entry.</li>
+<li>Developing this app module will allow for validations of data, drop down for fields, and improve quality of data simultaneously with reducing time spent during data entry.</li>
+<li>SfM was previously a non-NCRMP datastream, now that is an established NCRMP datastream, integrating it in the Oracle database is essential for us to enhance its data integrity.</li>
+<li>This will also allow for integration with the SfM annotation app, and allow for quicker data entry, production, and accessing of SfM metadata.</li>
+<li>The foundation for this application would also include modules that involve starting the optical validation QC process for photoquads while on the cruise, reducing the amount of time spent in optical validation post-cruise.</li>
+</ul>
 ## Development Stages
 1. Identify priority needs: SfM metadata entry to be standaradized and streamlined by becoming databased with an application interface
 2. Consult with SfM members on their needs in data entry
