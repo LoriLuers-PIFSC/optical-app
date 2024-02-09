@@ -46,9 +46,47 @@ This application & database is designed to increase efficiency and streamline da
 9. Develop and establish processes within the data entry: PL/SQL data validations & database procedures to QC
 10. Prepare and process other NCRMP data from SfM process tracking spreadsheet
 ### Stage 3 - Testing & Review
-11. SfM team tests and reviews application & data presentation
+11. SfM team tests and reviews application & data presentation.
+- #### start feedback loop for iterative development & improvement 
 12. Make updates & changes to application
 ### Stage 4 - Deployment
 13. Deploy application!
-### Future
+### Future 
 14. Start review process to integrate other optical metadata/data, optical validation and so on into new systems
+
+### Development Stages Diagram
+```mermaid
+graph LR
+    A[Stage 1: Gather Requirements, Database Design, and Development] --> B[Stage 2: App Development]
+    B --> C[Stage 3: Testing & Review]
+    C -->|Feedback Loop| D[Make Updates & Changes]
+    D --> B
+    C --> E[Stage 4: Deployment]
+    E --> F[Future: Integrate Other Optical Metadata/Data]
+
+    A -->|Identify Priorities & Needs| A1[Consult & Review with SfM Members]
+    A --> A2[Plan Database Design]
+    A --> A3[Develop Database Design]
+    A --> A4[Prepare & Process Data Sample]
+    A --> A5[Update Database Design for Ingestion]
+    A --> A6[Ingest Sample Data]
+
+    B --> B1[Develop Application Interface]
+    B --> B2[Establish Data Entry Processes]
+    B --> B3[Prepare & Process Other NCRMP Data]
+
+    C --> C1[SfM Team Tests & Reviews]
+    
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style B fill:#bbf,stroke:#333,stroke-width:2px
+    style C fill:#fbf,stroke:#333,stroke-width:2px
+    style D fill:#fbb,stroke:#333,stroke-width:2px
+    style E fill:#bfb,stroke:#333,stroke-width:2px
+    style F fill:#ddf,stroke:#333,stroke-width:2px
+```
+## **Project Timeline**
+
+## **Technology** 
+Leverage existing resources and technology 
+- Oracle Database
+- Oracle Apex
