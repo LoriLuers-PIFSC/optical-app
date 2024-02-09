@@ -54,7 +54,7 @@ This application & database is designed to increase efficiency and streamline da
 ### Future 
 14. Start review process to integrate other optical metadata/data, optical validation and so on into new systems
 
-### Development Stages Diagram
+## **Development Diagram**
 ```mermaid
 graph LR
     A[Stage 1: Gather Requirements, Database Design, and Development] --> B[Stage 2: App Development]
@@ -84,9 +84,25 @@ graph LR
     style E fill:#bfb,stroke:#333,stroke-width:2px
     style F fill:#ddf,stroke:#333,stroke-width:2px
 ```
-## **Project Timeline**
+## **Project Timeline - TBD**
+# Placeholder TBD
+```mermaid
+gantt
+    title A Gantt Diagram
+    dateFormat  YYYY-MM-DD
+    section Stage 1
+    Stage 1          :a1, 2024-02-15, 10d
+    section Stage 2
+    Stage 2          :a2, 2024-02-25, 7d
+    section Stage 3
+    Stage 3          :a2, 2024-03-01, 10d
+    section Stage 4
+    Stage 4          :a2, 2024-03-01, 5d
+```
 
 ## **Technology** 
 Leverage existing resources and technology 
 - Oracle Database
 - Oracle Apex
+
+
