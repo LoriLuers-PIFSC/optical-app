@@ -33,7 +33,7 @@ This application & database is designed to increase efficiency and streamline da
 - In addition, support and link to other post collection processing apps in development like the SfM annotation app
 
 ## **Development Stages**
-### Stage 1 - Gather Requirements and Database Design/Development
+### Stage 1 - Gather Requirements, Database Design, and Development
 1. Identify priorities & needs:SfM metadata entry to be standardized and streamlined by becoming a database with an application interface
 2. Consult & review with SfM members on their needs in data entry
 3. Plan database design: what tables and structure will be needed to power application functions and improve data access
@@ -42,7 +42,6 @@ This application & database is designed to increase efficiency and streamline da
 6. Update database design if needed to allow for ingestion
 7. Ingest sample data
 ### Stage 2 - App Development
-
 8. Develop application interface for metadata entry
 9. Develop and establish processes within the data entry: PL/SQL data validations & database procedures to QC
 10. Prepare and process other NCRMP data from SfM process tracking spreadsheet
