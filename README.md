@@ -88,7 +88,7 @@ graph LR
 # Placeholder TBD
 ```mermaid
 gantt
-    title A Gantt Diagram
+    title A Gantt Placeholder Timeline Diagram
     dateFormat  YYYY-MM-DD
     section Stage 1
     Stage 1          :a1, 2024-02-15, 10d
