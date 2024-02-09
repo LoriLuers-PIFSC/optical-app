@@ -50,5 +50,5 @@ This application & database is designed to increase efficiency and streamline da
 12. Make updates & changes to application
 ### Stage 4 - Deployment
 13. Deploy application!
-### Stage 5
-14. Review start process to integrate other optical metadata/data, optical validation and so on
+### Future
+14. Start review process to integrate other optical metadata/data, optical validation and so on into new systems
