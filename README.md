@@ -34,7 +34,7 @@ This application & database is designed to increase efficiency and streamline da
 
 ## **Development Stages**
 ### Stage 1 - Gather Requirements and Database Design/Development
-1. Identify priority needs:SfM metadata entry to be standardized and streamlined by becoming a database with an application interface
+1. Identify priorities & needs:SfM metadata entry to be standardized and streamlined by becoming a database with an application interface
 2. Consult & review with SfM members on their needs in data entry
 3. Plan database design: what tables and structure will be needed to power application functions and improve data access
 4. Develop database design: data tables and data structure
