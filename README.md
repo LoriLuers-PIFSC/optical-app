@@ -52,7 +52,8 @@ This application & database is designed to increase efficiency and streamline da
 ### Stage 4 - Deployment
 13. Deploy application!
 ### Future 
-14. Start review process to integrate other optical metadata/data, optical validation and so on into new systems
+14. Review process to integrate other optical metadata/data, optical validation and so on into new systems
+15. Cloud integration with NOAA Open Data Dissemination (NODD) systems
 
 ## **Development Diagram**
 ```mermaid
