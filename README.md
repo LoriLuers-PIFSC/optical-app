@@ -44,7 +44,7 @@ This application & database is designed to increase efficiency and streamline da
 ### Stage 2 - App Development
 8. Develop application interface for metadata entry
 9. Develop and establish processes within the data entry: PL/SQL data validations & database procedures to QC
-10. Prepare and process other NCRMP data from SfM process tracking spreadsheet
+10. Prepare and process other NCRMP data from SfM process tracking spreadsheet, QC and validate against the data in the database
 ### Stage 3 - Testing & Review
 11. SfM team tests and reviews application & data presentation.
 - #### start feedback loop for iterative development & improvement 
