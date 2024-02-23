@@ -11,4 +11,4 @@
     <li>Survey date different by a day</li>
   </ul>
   
-## See scripts under 'database design' for updates to database to match SfM process tracking spreadsheet
+## See scripts for database update queries - can also use Excel for inital visual QC for obvious updates (extraneous values/typos etc)
