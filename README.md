@@ -54,6 +54,7 @@ This application & database is designed to increase efficiency and streamline da
 ### Future 
 14. Review process to integrate other optical metadata/data, optical validation and so on into new systems
 15. Cloud integration with NOAA Open Data Dissemination (NODD) systems
+16. Retroactively QC and ingest SfM metadata for all prior cruises
 
 ## **Development Diagram**
 ```mermaid
@@ -86,7 +87,7 @@ graph LR
     style F fill:#ddf,stroke:#333,stroke-width:2px
 ```
 ## **Project Timeline - TBD **
-# Placeholder TBD
+# Integrating SfM metadata into database & application
 ```mermaid
 gantt
     title A Gantt Placeholder Timeline Diagram
