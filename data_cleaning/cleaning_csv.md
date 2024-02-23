@@ -10,4 +10,5 @@
     <li>Differing latitude/longitude coordinates</li>
     <li>Survey date different by a day</li>
   </ul>
+  
 ## See scripts under 'database design' for updates to database to match SfM process tracking spreadsheet
