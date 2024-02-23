@@ -1,3 +1,5 @@
+--query to pull up count of sfm metadata that needs to be entered, as well as needs to be sorted, and needs to be qc'd all in a single table to present it in the application 
+
 select count (c.site) count, 'No Metadata' as status
 from site_visit c, round d, occ_list_of_sites d
 where c.roundid = d.roundid
