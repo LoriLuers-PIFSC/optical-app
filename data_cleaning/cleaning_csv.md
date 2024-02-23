@@ -1,6 +1,6 @@
 # Cleaning data from the SfM process tracking spreadsheet
   
-  ## Inconsistences
+  ## InconsistencIes
   <ul>
     <li>Site naming doesn't match database</li>
     <li>Database flags for site visits</li>
@@ -10,3 +10,4 @@
     <li>Differing latitude/longitude coordinates</li>
     <li>Survey date different by a day</li>
   </ul>
+## See scripts under 'database design' for updates to database to match SfM process tracking spreadsheet
