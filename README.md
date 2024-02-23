@@ -85,20 +85,20 @@ graph LR
     style E fill:#bfb,stroke:#333,stroke-width:2px
     style F fill:#ddf,stroke:#333,stroke-width:2px
 ```
-## **Project Timeline - TBD**
+## **Project Timeline - TBD **
 # Placeholder TBD
 ```mermaid
 gantt
     title A Gantt Placeholder Timeline Diagram
     dateFormat  YYYY-MM-DD
     section Stage 1
-    Stage 1          :a1, 2024-02-15, 10d
+    Stage 1          :a1, 2024-02-08, 10d
     section Stage 2
-    Stage 2          :a2, 2024-02-25, 7d
+    Stage 2          :a2, 2024-02-15, 14d
     section Stage 3
-    Stage 3          :a2, 2024-03-01, 10d
+    Stage 3          :a2, 2024-02-27, 14d
     section Stage 4
-    Stage 4          :a2, 2024-03-01, 5d
+    Stage 4          :a2, 2024-03-10, 5d
 ```
 
 ## **Technology** 
