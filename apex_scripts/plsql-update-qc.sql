@@ -1,5 +1,15 @@
--------------------------------------------------
----this one is working with app---
+BEGIN
+    
+        update SFM_METADATA
+        set QC = v('APP_USER')
+        where SFMMETAID = :P208_SFMMETAID;
+    
+end;
+
+
+
+
+---old below----------
 declare
 
     vQC varchar2(50);
@@ -15,8 +25,7 @@ begin
 
 end;
 
-
--------------------------------------------------
+---testing below----
 
 DECLARE
     v_sitevisitid
