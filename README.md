@@ -1,5 +1,11 @@
 #
 # **Optical Metadata Application & Database**
+## Project Directories
+- Documentation of scripts and project at GitHub repository: https://github.com/LoriLuers-PIFSC/optical-app
+- Drive Folder for maintaining collaborative cloud docs: 
+https://drive.google.com/drive/u/0/folders/1Em8hI6_ro7cTAo9gpFjcGim3vQmiuXDF
+- Network drives for loading ingestion/sample data:
+T:\DataManagement\DataProjects\esd-optical-app
 
 ## **Statement**
 
