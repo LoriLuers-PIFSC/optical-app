@@ -103,9 +103,9 @@ gantt
     section Stage 2
     Stage 2          :a2, 2024-02-15, 14d
     section Stage 3
-    Stage 3          :a2, 2024-02-27, 21d
+    Stage 3          :a2, 2024-02-27, 14d
     section Stage 4
-    Stage 4          :a2, 2024-03-18, 30d
+    Stage 4          :a2, 2024-03-10, 5d
 ```
 
 ## **Technology** 
